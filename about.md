@@ -14,4 +14,3 @@ A place to include any other types of information that you'd like to include abo
 
 [palladin8989@gmail.com](mailto:palladin8989@gmail.com)
 
-[Facebook](https://www.facebook.com/patrick.boutier.7)
