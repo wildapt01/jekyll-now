@@ -19,11 +19,11 @@ avatar: https://avatars1.githubusercontent.com/u/14893362?s=400&u=b493f1aa059bf6
 footer-links:
   dribbble:
   email: palladin8989@gmail.com
-  facebook: https://www.facebook.com/patrick.boutier.7
+  facebook: patrick.boutier.7
   flickr:
   github: 
   instagram:
-  linkedin: https://www.linkedin.com/in/patrick-boutier-99328726/
+  linkedin: patrick-boutier-99328726/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://wildapt01.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
