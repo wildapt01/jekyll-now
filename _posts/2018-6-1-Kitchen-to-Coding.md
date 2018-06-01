@@ -3,7 +3,7 @@ layout: post
 title: Kitchen to Coding, really?
 ---
 
-<!-- ![A_Road]({{ site.baseurl }}/images/long-windy-road-614x236.jpg) -->
+![Kitchen]({{ site.baseurl }}/images/Kitchen2.jpg)
 
 From working as a chef to programming can appear as a wide stretch. True, professional cooking is arguably as low tech as it can be. Playing with fire, sharp knives, butchering, all the activity happening in a pro kitchen is basically a lot of manual work. Despite the manual labor intensive side, the skill set a chef needs to master is surprisingly close to what is needed as a developer. This is an illustration through a typical day at a restaurant in Tribeca where I was Executive Chef.
 
