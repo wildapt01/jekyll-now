@@ -24,7 +24,9 @@ What I bring to the table:
 
 
 
-### Contact me
+### Contact me:
 
 [Patrick_B](mailto:palladin8989@gmail.com)
+
+
 
