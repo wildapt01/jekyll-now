@@ -19,8 +19,12 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  // font: 18px/1.4 $helvetica;
+  font: 20px $raleway;
   color: $darkGray;
+  text-justify: distribute;
+  line-height: 1.7;
+
 }
 
 .container {
