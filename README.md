@@ -1,4 +1,4 @@
-##Patrick_B - This is my blog website on GitHub
+## Patrick_B - This is my blog website on GitHub Pages
 
 [My site](https://wildapt01.github.io/)
 
