@@ -5,7 +5,7 @@ title: A Bit About The For... Loop
 
 ![Coding]({{ site.baseurl }}/images/N7mhAVE.jpg)
 
-##For Loop: from trivial to original##
+## For Loop: from trivial to original
 
 Iteration through an element itself composed of several sub-elements is a basic feature of all programming languages. Some could say it is one of the main building blocks of any language under the sun. Going back in time, Augusta Ada King, Countess of Lovelace, and only legitimate daughter of dandy extraordinaire Lord Byron, laid down the tenets of what should be a programming language without the support of a computer to run it. One of her principles is the arithmetic enumeration. She did not see her 40th birthday, and one could wonder what other discoveries her fertile mind would have made.
 
@@ -13,7 +13,7 @@ Fast forwarding to the end of WWII which allows us to contemplate the first mach
 
 All developers are familiar with the trivial loop (here in JavaScript):
 
-```js
+```javascript
  for (let i = 0; i < someLimit ; i++) { someCode happens }
 ```
 
@@ -22,7 +22,7 @@ The For loop has 4 components: the initialization, the condition, the increment 
 Multiple initialization
 The first interest of declaring incrementing variables early is that they are available down the road in our code. On the other hand, some other variables can be declared in a For loop first part and not be used as iterators. Here are 2 examples:
 
-```js
+```javascript
 for (var i=0, len=cars.length, text="You've got "+len+" cars:
 "; i<len; i++) {
 
@@ -34,7 +34,7 @@ That JavaScript code is kind of pre-ES6. Additionaly, reading and maintaining it
 
 Another interesting example is this one from Michael Mitrakos . It is a version of coding an Insertion Sort algorithm. The interesting part comes from switching the declaration of the incrementing variables to a more ES6-like aspect.
 
-```js
+```javascript
 function insertionSort(array) {
   var length = array.length;
 
@@ -52,7 +52,7 @@ function insertionSort(array) {
 
 It could be modernized to:
 
-```js
+```javascript
 const insertionSort = array => {
   const length = array.length;
   for (let i = 1; i < length; i++) {
@@ -66,9 +66,9 @@ const insertionSort = array => {
 };
 ```
 
-Which will return an error , as ‘j’ is now undefined. And the only way to validate the code is to declare the 2nd iterator in the 1st For… loop like this:
+Which will return an error , as `j` is now undefined. And the only way to validate the code is to declare the 2nd iterator in the 1st For… loop like this:
 
-```js
+```javascript
 const insertionSort = array => {
   const length = array.length;
   for (let i = 1, j; i < length; i++) {
@@ -84,7 +84,7 @@ const insertionSort = array => {
 
 Alternatively, other conditions can be set :
 
-```js
+```javascript
 //shuffle the cars list
 cars = cars.sort(function() {
   return Math.random() - 0.5;
@@ -96,21 +96,23 @@ for (var i = 0; i < cars.length && cars[i] != 'BMW'; i++) {
 
 As well as different increments and/or decrements of variables, here in a funny way to get some curve on screen:
 
-```js
+```javascript
 function renderCurve() {
-  for (var a = 1, b = 10; a * b; a++, b--)
-    output.innerHTML += new Array(a * b).join('*') + '<br/>';
+  for (var a = 1, b = 10; a _ b; a++, b--)
+  output.innerHTML += new Array(a _ b).join('\*') + '<br/>';
 }
 
 renderCurve();
 ```
 
-As a **wrap-up**, a humble For… loop can be used in a lot of ways. As it is, it remains one of the most efficient and readable ways to go through a collection of objects. It is beneficial for any developper to know its use and hidden capacities.
+### Wrap-up
+
+A humble For… loop can be used in a lot of ways. As it is, it remains one of the most efficient and readable ways to go through a collection of objects. It is beneficial for any developper to know its use and hidden capacities.
 
 _References for this post are:_
 
-_[Getting Fancy with the JavaScript For Loop]
-By Rob Gravelle](https://www.htmlgoodies.com/html5/javascript/getting-fancy-with-the-javascript-for-loop.html)_
-_[Ada Lovelace, The First Programmer]
-Written by Historian](https://www.i-programmer.info/history/people/173-ada-the-first-programmer-.html)_
+_[Getting Fancy with the JavaScript For Loop By Rob Gravelle](https://www.htmlgoodies.com/html5/javascript/getting-fancy-with-the-javascript-for-loop.html)_
+
+_[Ada Lovelace, The First Programmer Written by Historian](https://www.i-programmer.info/history/people/173-ada-the-first-programmer-.html)_
+
 _[Implement Insertion Sort in JavaScript by Michael Mitrakos](https://initjs.org/insertion-sort-in-javascript-6c48563b4643)_
