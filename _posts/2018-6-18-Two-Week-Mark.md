@@ -3,9 +3,7 @@ layout: post
 title: Two-week Mark
 ---
 
-<!-- ![Kitchen]({{ site.baseurl }}/images/Kitchen2.jpg) -->
-
-![Coding](https://i.imgur.com/N7mhAVE.jpg)
+![Coding]({{ site.baseurl }}/images/N7mhAVE.jpg)
 
 As my cohort looks toward the third week of our Junior phase, it seems a good moment to use the rear view mirror and consider what has been achieved so far. The pace is intense, from whichever angle it is considered. The Bootcamp moniker is fair and square, most of my colleagues are struggling to follow the rhythm, and I am certainly in the rear of the cohort. Concepts and technologies are chained to pair exercises and labs. The days are going fast, the coding is quasi permanent, and it reminds me of this saying: “if you can’t take the heat, don’t work in a kitchen”. Of course, there are a few who seem to go serenely with the flow, going through tricky test specs and emerge as fresh as a rose after 3 to 4 hours of intense brain wrigging. It can be easily understood it is not my case. Each day seems to be warfare in the trenches, some a bit more than others.
 
