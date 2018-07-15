@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Two-week Mark
+title: A Bit About The For... Loop
 ---
 
 ![Coding]({{ site.baseurl }}/images/N7mhAVE.jpg)
 
-For Loop: from trivial to original
+##For Loop: from trivial to original##
 
 Iteration through an element itself composed of several sub-elements is a basic feature of all programming languages. Some could say it is one of the main building blocks of any language under the sun. Going back in time, Augusta Ada King, Countess of Lovelace, and only legitimate daughter of dandy extraordinaire Lord Byron, laid down the tenets of what should be a programming language without the support of a computer to run it. One of her principles is the arithmetic enumeration. She did not see her 40th birthday, and one could wonder what other discoveries her fertile mind would have made.
 
