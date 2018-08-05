@@ -251,3 +251,5 @@ All are running Windows 10 - April 2018.
 _Microsoft, Windows, Windows 10 are trademarks of Microsoft Corp. MacBook Pro is a trademark of Apple Inc. Ubuntu is a trademark of Canonical Inc. UK._
 
 _Thanks to Dakota Blair and the whole team at Fullstack Academy for their precious help._
+
+_Published on [Medium](https://medium.com/@pb5191/complete-development-environment-with-windows-10-and-linux-part-1-5691f798ae32)_
