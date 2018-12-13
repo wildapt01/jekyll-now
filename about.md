@@ -28,5 +28,4 @@ What I bring to the table:
 
 [Patrick_B](mailto:palladin8989@gmail.com)
 
-
-
+[Resume](https://gist.github.com/wildapt01/edd7f7147ed1a5b4db3802813cac7925)
