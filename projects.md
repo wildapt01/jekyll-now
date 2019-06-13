@@ -32,4 +32,4 @@ most relevant to their project.
 
 **Tech Stack** HTML5, CSS3, JavaScript ES6, UXPin (prototyping), AOS (animation)
 
-As an exercise in keeping things simple as well as good looking, it is a simple site built with a minimal footprint and of course it is about our cat, Cachou.
+As an exercise in keeping things simple as well as good looking, it is a simple site built with a minimal footprint and of course it is about our Siberian cat, Cachou.
