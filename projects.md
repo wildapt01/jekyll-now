@@ -8,7 +8,7 @@ permalink: /projects/
 
 Tour Group Management Web App (Capstone, team project)
 
-[YouTube Presentation](https://www.youtube.com/watch?v=IgOtVFTctvk&list=PLx0iOsdUOUmkPQ6KrQya18cevlXmmAckQ&index=3&t=0s) | [Github](https://github.com/herd-1807-capstone)
+[YouTube Presentation](https://www.youtube.com/watch?v=IgOtVFTctvk&list=PLx0iOsdUOUmkPQ6KrQya18cevlXmmAckQ&index=3&t=0s) - [Github](https://github.com/herd-1807-capstone)
 
 #### Tech Stack
 
@@ -20,7 +20,7 @@ A web application for tour guides and tour members providing users with real-tim
 
 Desktop App on Linux (solo project)
 
-[YouTube Presentation](https://www.fullstackacademy.com/hackathon-presentations/mockingbird) | [Github](https://github.com/wildapt01/mockingbird)
+[YouTube Presentation](https://www.fullstackacademy.com/hackathon-presentations/mockingbird) - [Github](https://github.com/wildapt01/mockingbird)
 
 #### Tech Stack
 
